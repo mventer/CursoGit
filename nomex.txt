@@ -4,3 +4,6 @@ Ciclano
 Ana
 Paulo
 Ismael
+João
+Maria
+José
