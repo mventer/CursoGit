@@ -1,3 +1,3 @@
-function usuario(name) {
+function mostraNome(name) {
     return name
 }
